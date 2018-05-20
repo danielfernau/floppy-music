@@ -1,0 +1,2 @@
+mido==1.2.8
+pyserial==3.4
