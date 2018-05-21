@@ -1,3 +1,9 @@
+/**
+ *  @file       floppy-music.ino
+ *  @author     Daniel Fernau
+ *  @date       05/21/2018
+ */
+
 #include <TimerOne.h>
 
 int drivePosition[] = {0, 0, 0, 0, 0, 0, 0, 0}; // initialize drive position array for 8 drives, min 0, max 158

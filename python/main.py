@@ -1,4 +1,14 @@
+#!/usr/bin/env python
 # coding=utf-8
+
+"""
+    File name: main.py
+    Author: Daniel Fernau
+    Date created: 05/05/2018
+    Date last modified: 05/21/2018
+    Python Version: 2.7
+"""
+
 from __future__ import division  # enable "true division"
 
 import serial  # pyserial module
